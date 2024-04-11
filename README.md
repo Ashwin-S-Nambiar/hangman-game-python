@@ -1,2 +1,2 @@
 # hangman-game-python
- Simple Hangman game based on fruit names
+ Simple Hangman game based on the names of fruits.
