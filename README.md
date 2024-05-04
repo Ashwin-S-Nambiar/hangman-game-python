@@ -1,4 +1,4 @@
-# hangman-game-python
+# Hangman Game Python
 Simple Hangman game based on the names of fruits.
 SCREENSHOTS BELOW:
 ![image](https://github.com/Ashwin-S-Nambiar/hangman-game-python/assets/76719333/4191415b-c236-40ef-a929-77232a320bbd)
